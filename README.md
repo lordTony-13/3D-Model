@@ -2,6 +2,6 @@
 
 1. Download
 2. make .env FILE with GROQ apikey
-In terminal type:
--yarn
--yarn dev
+3. In terminal type:
+4. yarn
+5. yarn dev
